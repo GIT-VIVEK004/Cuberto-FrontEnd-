@@ -1,4 +1,13 @@
+
+![Screenshot 2025-05-16 085139](https://github.com/user-attachments/assets/14148393-be64-4da7-82e5-6eddd94c991e)
+
+![Screenshot 2025-05-16 085148](https://github.com/user-attachments/assets/fd052179-a7c6-4742-a7f1-9a9d8e31c695)
+
+![image](https://github.com/user-attachments/assets/45f3159d-a742-447d-901f-a0c869156235)
+
+
 # Cynthia-Ugwu-FrontEnd-
+
 
 Structure: Built with clean and semantic HTML5 to organize sections like header, main content, and footer.
 
